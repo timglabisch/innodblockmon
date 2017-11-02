@@ -1,0 +1,9 @@
+[package]
+name = "innodblockmon"
+version = "0.1.0"
+authors = ["timglabisch <tim@ainfach.de>"]
+
+[dependencies]
+mysql = "*"
+clap = "*"
+chrono = "0.4"
